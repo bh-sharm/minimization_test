@@ -1,6 +1,5 @@
 # minimization_test
-
-Test from Grex from scratch
+CHECKING FOR GREX scratch
 This is my first Github repository test.
 
 Hope it works forever!
