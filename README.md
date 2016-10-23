@@ -1,5 +1,5 @@
 # minimization_test
-CHECKING FOR BRIAREE
+CHECKING FOR GREX   home
 This is my first Github repository test.
 
 Hope it works forever!
