@@ -1,0 +1,6 @@
+git remote set-url origin https://bh-sharm@github.com/bh-sharm/minimization_test.git
+git config -l | grep url
+unset SSH_ASKPASS
+git push origin master
+
+
